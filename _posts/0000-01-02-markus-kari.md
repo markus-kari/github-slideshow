@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-You are in my way, o-o-o-oh.
+![meme](https://miro.medium.com/max/1200/1*HJbxQ5suRboRxGtg8kX4Zg.png)
 Use the left arrow to go back!
